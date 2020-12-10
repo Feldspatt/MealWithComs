@@ -18,6 +18,7 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation("org.mariadb.jdbc:mariadb-java-client:2.1.2")
 }
 
 javafx {
@@ -25,5 +26,4 @@ javafx {
     version = '15'
 }
 
-mainClassName = 'afpa.moi.org.App' +
-        ''
+mainClassName = 'org.mealwith.App'
