@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dataholderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-10T11:39:03" hostname="DESKTOP-CH8566U" time="0.015">
+  <properties/>
+  <testcase name="setListTest" classname="dataholderTest" time="0.015"/>
+  <system-out><![CDATA[liste size: 1list size: 1]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
